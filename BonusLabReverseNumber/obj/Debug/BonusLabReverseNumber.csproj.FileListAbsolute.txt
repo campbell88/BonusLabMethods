@@ -1,0 +1,6 @@
+c:\users\home\documents\visual studio 2015\Projects\BonusLabReverseNumber\BonusLabReverseNumber\bin\Debug\BonusLabReverseNumber.exe.config
+c:\users\home\documents\visual studio 2015\Projects\BonusLabReverseNumber\BonusLabReverseNumber\obj\Debug\BonusLabReverseNumber.csprojResolveAssemblyReference.cache
+c:\users\home\documents\visual studio 2015\Projects\BonusLabReverseNumber\BonusLabReverseNumber\bin\Debug\BonusLabReverseNumber.exe
+c:\users\home\documents\visual studio 2015\Projects\BonusLabReverseNumber\BonusLabReverseNumber\bin\Debug\BonusLabReverseNumber.pdb
+c:\users\home\documents\visual studio 2015\Projects\BonusLabReverseNumber\BonusLabReverseNumber\obj\Debug\BonusLabReverseNumber.exe
+c:\users\home\documents\visual studio 2015\Projects\BonusLabReverseNumber\BonusLabReverseNumber\obj\Debug\BonusLabReverseNumber.pdb
